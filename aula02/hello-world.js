@@ -1,0 +1,1 @@
+console.log("vou detonar com o JS!");
